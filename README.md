@@ -1,6 +1,6 @@
 # Palm Media Controller
 
-A cross-platform Python tool that lets you control media playback using simple hand gestures via your webcam.
+A simple Python tool that lets you control media playback using simple hand gestures via your webcam.
 
 ---
 
